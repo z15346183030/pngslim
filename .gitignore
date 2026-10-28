@@ -1,0 +1,14 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Test and coverage output
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local scratch files
+*.pngslim
+tmp/
+scratch/
